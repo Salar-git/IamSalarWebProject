@@ -1,0 +1,7 @@
+{
+  "name":"Sample Project - Product",
+  "db": {
+    "address": "mongodb://127.0.0.1:27017/SampleDataBasse"
+  },
+  "jwt_key": "Sasladlksknfvsdoleirvlnki243987923v$@42xcsvlk"
+}
